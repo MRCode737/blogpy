@@ -1,0 +1,9 @@
+# venv 
+venv/
+
+# DATABASE
+db.sqlite3
+
+# migrations 
+blog/migrations 
+
